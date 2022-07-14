@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenSilverTelerikApp", "OpenSilverTelerikApp\OpenSilverTelerikApp\OpenSilverTelerikApp.csproj", "{7638ED94-4E04-407C-8D96-7C34D82EF3BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenSilverTelerikApp.Browser", "OpenSilverTelerikApp\OpenSilverTelerikApp.Browser\OpenSilverTelerikApp.Browser.csproj", "{24C27947-697C-4815-84EE-686A46EEFB87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenSilverTelerikApp.Simulator", "OpenSilverTelerikApp\OpenSilverTelerikApp.Simulator\OpenSilverTelerikApp.Simulator.csproj", "{66E9A878-C6D5-4924-AA11-B542C555324A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7638ED94-4E04-407C-8D96-7C34D82EF3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7638ED94-4E04-407C-8D96-7C34D82EF3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7638ED94-4E04-407C-8D96-7C34D82EF3BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7638ED94-4E04-407C-8D96-7C34D82EF3BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C27947-697C-4815-84EE-686A46EEFB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C27947-697C-4815-84EE-686A46EEFB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C27947-697C-4815-84EE-686A46EEFB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C27947-697C-4815-84EE-686A46EEFB87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66E9A878-C6D5-4924-AA11-B542C555324A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66E9A878-C6D5-4924-AA11-B542C555324A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66E9A878-C6D5-4924-AA11-B542C555324A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66E9A878-C6D5-4924-AA11-B542C555324A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCDE3161-BD34-404A-AA67-70CE7C045286}
+	EndGlobalSection
+EndGlobal
